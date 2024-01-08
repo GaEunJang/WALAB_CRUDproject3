@@ -25,7 +25,7 @@
  
 ## 스크린샷
 <img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/f9e05964-7940-44ca-83fc-f65d0502ef56.png"><br>
-<img width="300" height="800" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/039fb320-deb0-4b18-8928-e0309f1e0fde.png"><br>
+<img width="300" height="80" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/039fb320-deb0-4b18-8928-e0309f1e0fde.png"><br>
 <img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/6edada11-1fec-4b88-a3b1-3a8646c03ba3.png"><br>
 <img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/0539452f-acf0-4ef7-b53a-f447e2522e60.png"><br>
 <img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/e6af801d-b9aa-46bf-b82c-483c84a98245.png"><br>
