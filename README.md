@@ -33,5 +33,5 @@
 <img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/3cbd4da5-1893-4234-a143-9c974383fd26.png"><br>
 <img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/75712b5c-897f-47c5-9e8c-c26efe19b413.png"><br>
 <img width="300" height="80" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/64d85e1f-e4d6-4bb1-bb6f-7c88d492f608.png"><br>
-<img width="310" height="190" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/8f921e19-38ae-4865-9971-9c64e7c57126.png"><br>
-<img width="310" height="190" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/5da9532e-6ae2-4dea-907f-dd7da01045ed.png"><br>
+<img width="340" height="190" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/8f921e19-38ae-4865-9971-9c64e7c57126.png"><br>
+<img width="340" height="190" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/5da9532e-6ae2-4dea-907f-dd7da01045ed.png"><br>
