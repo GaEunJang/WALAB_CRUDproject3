@@ -15,7 +15,7 @@
 - SQLite JDBC: 데이터베이스 연결 및 관리.
   
 ## Sqlite 쿼리
-- 테이블명: `clothing`
+- 테이블명: `Clothing`
 - 칼럼 이름(타입):
   - `id` (INTEGER): 고유 식별자, Primary Key.
   - `type` (VARCHAR): 의류 종류 (예: 아우터, 상의, 하의).
