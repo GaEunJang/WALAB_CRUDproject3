@@ -14,7 +14,7 @@
 ## 사용된 라이브러리
 - SQLite JDBC: 데이터베이스 연결 및 관리.
   
-## S1lite 쿼리
+## Sqlite 쿼리
 - 테이블명: `clothing`
 - 칼럼 이름(타입):
   - `id` (INTEGER): 고유 식별자, Primary Key.
