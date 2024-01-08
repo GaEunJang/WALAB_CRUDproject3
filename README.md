@@ -25,13 +25,13 @@
  
 ## 스크린샷
 <img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/f9e05964-7940-44ca-83fc-f65d0502ef56.png"><br>
-<img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/039fb320-deb0-4b18-8928-e0309f1e0fde.png"><br>
+<img width="300" height="150" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/039fb320-deb0-4b18-8928-e0309f1e0fde.png"><br>
 <img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/6edada11-1fec-4b88-a3b1-3a8646c03ba3.png"><br>
 <img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/0539452f-acf0-4ef7-b53a-f447e2522e60.png"><br>
 <img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/e6af801d-b9aa-46bf-b82c-483c84a98245.png"><br>
-<img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/b3c39502-6ea5-4786-b5af-8ceb4bc266f9.png"><br>
+<img width="300" height="150" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/b3c39502-6ea5-4786-b5af-8ceb4bc266f9.png"><br>
 <img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/3cbd4da5-1893-4234-a143-9c974383fd26.png"><br>
 <img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/75712b5c-897f-47c5-9e8c-c26efe19b413.png"><br>
-<img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/64d85e1f-e4d6-4bb1-bb6f-7c88d492f608.png"><br>
-<img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/8f921e19-38ae-4865-9971-9c64e7c57126.png"><br>
-<img width="250" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/5da9532e-6ae2-4dea-907f-dd7da01045ed.png"><br>
+<img width="300" height="150" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/64d85e1f-e4d6-4bb1-bb6f-7c88d492f608.png"><br>
+<img width="300" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/8f921e19-38ae-4865-9971-9c64e7c57126.png"><br>
+<img width="300" src="https://github.com/GaEunJang/WALAB_CRUDproject3/assets/103119924/5da9532e-6ae2-4dea-907f-dd7da01045ed.png"><br>
