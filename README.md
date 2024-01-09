@@ -1,6 +1,7 @@
 # 의류 관리 시스템 + Sqlite
 
 이 프로젝트는 [WALAB_CRUDproject1](https://github.com/GaEunJang/WALAB_CRUDproject1)에 DB 연결을 통해 데이터 관리기능을 추가한 확장 버전입니다. 데이터는 SQLite 데이터베이스에 저장되며, 이 시스템은 데이터베이스 관리와 사용자 인터페이스 간의 상호작용을 제공합니다.  
+참고 사이트 : https://www.musinsa.com/app/
 
 ## 클래스 
 - **org.example.Main**: 프로그램의 진입점, 사용자 인터페이스(UI) 제공.
