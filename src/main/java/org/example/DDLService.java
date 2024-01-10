@@ -17,7 +17,8 @@ public class DDLService {
                 "type VARCHAR NOT NULL," +
                 "name VARCHAR NOT NULL," +
                 "price INTEGER NOT NULL," +
-                "description TEXT)";
+                "description TEXT,"+
+                "registration_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP)";
 
         try (Statement stmt = connection.createStatement()) {
             stmt.execute(sql);
